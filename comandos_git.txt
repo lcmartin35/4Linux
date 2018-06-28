@@ -8,3 +8,6 @@ git push -u origin master
 
 git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
+
+
+echo \#\!$(which python3) > lista.py &&   chmod +x    lista.py
