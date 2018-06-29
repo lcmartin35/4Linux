@@ -1,0 +1,10 @@
+Azul-1
+Amarelo-2
+Bege-3
+Branco-4
+verde-5
+preto-6
+marron-7
+vermerlho-8
+Rosa-9
+Cinza
