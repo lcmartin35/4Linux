@@ -4,7 +4,7 @@ Criar uma copia do arquivo .txt, acrescentando indice em cada linha
 exemplo 1-Daniel
 '''
 
-with open('cores.txt','r') as arquivo:
+with open('tintas.txt','r') as arquivo:
     var = arquivo.readlines()
 alterado  = []
 cont = 1
