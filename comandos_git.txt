@@ -10,4 +10,4 @@ git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
 
 
-echo \#\!$(which python3) > execessao.py &&   chmod +x    execessao.py
+echo \#\!$(which python3) func_open.py &&   chmod +x    func_open.py
