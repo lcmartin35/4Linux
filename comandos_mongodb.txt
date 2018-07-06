@@ -1,0 +1,20 @@
+show dbs # verificar base de dados
+show tables ou show collections # verificar collections ou tabelas
+use database # se não existir a base de dados ele cria
+db.collections.insert() # insere dados na tabela
+db.collections.update() # atualizar dados ex.: db.pessoas.update({'_id':5},{'$set': {'sobrenome':'silvasauro'}})
+db.collections.update() # atualizar dados '$set':{'nome': 'alterado', 'sobrenome':'novosobrenome'}
+
+db.collections.find() # buscar dados {'_id':2}
+db.collections.remove() # remover dados {'_id':2}
+
+
+
+
+show dbs # verificar base de dados
+show tables ou show collections # verificar collections ou tabelas
+use database # se não existir a base de dados ele cria
+db.collections.insert() # inseri dados na tabela
+db.collections.update() # atualizar dados '$set':{'nome': 'alterado', 'sobrenome':'novosobrenome'}
+db.collections.find() # buscar dados {'_id':2}
+db.collections.remove() # remover dados {'_id':2}
